@@ -2,8 +2,8 @@
 <!-- Hero Banner (Cozy/Cartoon Animated GIF) -->
 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%" alt="Cozy Lo-Fi Banner" style="border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);" />
 <!-- Animated Typing Introduction with Soft, Playful Font -->
-<a href="https://github.com/anshraj">
-<img src="https://readme-typing-svg.demolab.com?font=Sniglet&weight=600&size=30&pause=1000&color=F4A261&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Ansh+Raj+👋;Welcome+to+my+digital+garden+🍄;I+build+cool+software+✨;AI+%26+Backend+Wizard+🧙‍♂️;Open+Source+Enthusiast+🌟" alt="Typing SVG" />
+<a href="https://github.com/ANSH-ind">
+<img src="https://readme-typing-svg.demolab.com?font=Sniglet&weight=600&size=30&pause=1000&color=F4A261&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Ansh+Raj+;Welcome+to+my+digital+garden+;I+build+cool+software+;AI+%26+Backend+Wizard+;Open+Source+Enthusiast+"/>
 </a>
 <!-- Profile Views Counter (Soft Color) -->
 <p align="center">
