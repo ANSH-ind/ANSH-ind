@@ -34,7 +34,7 @@ I am a Class 9 student currently studying in a government school in Bihar, but m
 
 I actively build and maintain tools to solve complex problems. Here are some of my projects:
 
-- **[py-tokenizer-ansh](https://github.com/ANSH-ind/py-tokenizer-ansh):** A custom tokenizer library built for Python, optimized for processing text in machine learning and NLP pipelines.
+- **[py-tokenizer-ansh](https://github.com/ANSH-ind/py_tokenizer):** A custom tokenizer library built for Python, optimized for processing text in machine learning and NLP pipelines.
 - **[video-transcoders](https://github.com/ANSH-ind/video-transcoders):** A robust tool designed for efficient video transcoding and media processing workflows.
 
 ### Tech Stack
